@@ -399,3 +399,4 @@ hdfs fsck /caso/victimas_uariv.csv -files -blocks -locations
 # 6. Lanzar Jupyter si no está corriendo:
 jupyter notebook --ip=0.0.0.0 --no-browser
 ```
+
