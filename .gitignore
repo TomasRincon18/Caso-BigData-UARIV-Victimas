@@ -2,8 +2,9 @@
 data/victimas_uariv.csv
 data/*.part
 
-# Scripts temporales de generación
+# Scripts temporales de generación/ajuste
 _generar_notebook.py
+_aplicar_ajustes.py
 
 # Python
 __pycache__/
