@@ -1,10 +1,6 @@
 # Datos crudos y voluminosos (superan el límite de 100 MB por archivo en GitHub)
 data/victimas_uariv.csv
-data/*.csv
-
-# Artefactos de descarga parcial
 data/*.part
-/tmp/
 
 # Scripts temporales de generación
 _generar_notebook.py
